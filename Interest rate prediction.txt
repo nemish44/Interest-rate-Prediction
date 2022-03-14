@@ -1,0 +1,3 @@
+Problem statement:
+Loan distribution agency trying to provide the best interest rate for their clients and the agency have client personal details on the
+basis of that agency needs to predict minimum interest rate for clients.
